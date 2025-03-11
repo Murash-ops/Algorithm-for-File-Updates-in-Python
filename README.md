@@ -15,7 +15,3 @@ This project automates the removal of unauthorized IP addresses from an allow li
 - .join() – Converts a list back to a string.
 - .write() – Updates the file with revised data.
 
-**Summary**
-
-This script efficiently maintains an updated allow list by automatically filtering out unauthorized IPs, ensuring access control remains up-to-date.
-
